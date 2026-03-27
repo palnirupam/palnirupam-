@@ -1,7 +1,7 @@
-<!-- 🔥 Typing Animation (Stable) --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Nirupam+Pal;Cybersecurity+Enthusiast;Aspiring+Developer;Always+Learning+New+Things" />
-</p><!-- 🔥 Header Banner --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Nirupam%20Pal&fontSize=38&fontColor=ffffff"/>
+<!-- Typing --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Nirupam+Pal;Cybersecurity+Enthusiast;Aspiring+Developer" />
+</p><!-- Banner --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Nirupam%20Pal&fontSize=35&fontColor=ffffff"/>
 </p>---
 
 👨‍💻 Nirupam Pal
@@ -12,25 +12,25 @@
 
 🚀 About Me
 
-- 🔭 Currently improving development & cybersecurity skills
+- 🔭 Improving development & cybersecurity skills
 - 🌱 Learning Ethical Hacking & Web Development
-- 🤝 Open to collaboration on security & development projects
-- 💬 Ask me about Python, Web Development & Cybersecurity basics
-- ⚡ Love exploring tools like Kali Linux
+- 🤝 Open to collaboration on projects
+- 💬 Ask me about Python & Cybersecurity basics
+- ⚡ Love Kali Linux
 
 ---
 
-🌐 Connect With Me
+🌐 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/nirupam-pal-166614291">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/nirupam.1">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:palnirupam7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 </p>---
 
@@ -45,21 +45,15 @@
 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>---
 
 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight&hide_border=true"/>
-</p>---
-
-🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=palnirupam&theme=flat&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight"/>
 </p>---
 
 📈 Activity Graph
@@ -71,17 +65,11 @@
 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=palnirupam&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=palnirupam"/>
 </p>---
 
 🧠 Quote
 
 <p align="center">
-<i>"Hack the system, but secure it first." 🔐</i>
-</p>---
-
-<p align="center">
-⭐ Don't forget to star repositories you like!
-</p><!-- 🔥 Footer --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<i>"Hack the system, but secure it first."</i>
 </p>
