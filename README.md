@@ -1,9 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>      Enhancing my development skills and practicing cybersecurity techniques<br>👯 I’m looking to collaborate on<br>      Cybersecurity-related projects, web apps, and open-source contributions<br>🤝 I’m looking for help with<br>      Improving my practical cybersecurity skills and real-world experience<br>🌱 I’m currently learning<br>      Cybersecurity fundamentals, ethical hacking (basic tools & techniques), and web development<br>💬 Ask me about<br>      Web development, basic cybersecurity tools, and my learning journey<br>⚡ Fun fact<br>      I like exploring security tools and learning how systems can be made more secure 🔐
+<!-- 🔥 Animated Typing Header --><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Nirupam+Pal;Cybersecurity+Enthusiast+🔐;Aspiring+Developer+💻;Learning+Ethical+Hacking+⚡" />
+</p>---
 
+👨‍💻 Nirupam Pal
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nirupam.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nirupam-pal-166614291?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palnirupam7@gmail.com) 
+<p align="center">
+  💻 Developer | 🔐 Cybersecurity Learner | ⚡ Tech Explorer  
+</p>---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+🚀 About Me
+
+- 🔭 Currently improving development & cybersecurity skills
+- 🌱 Learning Ethical Hacking & Web Development
+- 🤝 Open to collaboration on security & dev projects
+- 💬 Ask me about Python, Web Dev & Cyber basics
+- ⚡ Love exploring tools like Kali Linux 🔥
+
+---
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="https://instagram.com/nirupam.1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nirupam-pal-166614291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:palnirupam7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>---
+
+💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,html,python,linux" />
+</p><p align="center">
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>---
+
+📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight"/>
+</p>---
+
+🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight"/>
+</p>---
+
+🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=palnirupam&theme=matrix"/>
+</p>---
+
+📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palnirupam&theme=react-dark"/>
+</p>---
+
+👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=palnirupam&label=Profile%20Views&color=00ff00&style=flat"/>
+</p>---
+
+🧠 Quote
+
+<p align="center">
+  <i>"Hack the system, but secure it first." 🔐</i>
+</p>---
+
+<p align="center">
+⭐ Don't forget to star repositories you like!
+</p>
