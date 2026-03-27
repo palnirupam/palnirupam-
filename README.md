@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nirupam%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=60&descSize=20&descColor=36BCF7"/>
 
 <!-- ══════════════════════ TYPING SVG ══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nirupam+Pal+👋;Cybersecurity+Learner+🔐;Ethical+Hacking+Enthusiast+💻;CTF+Player+%7C+Bug+Hunter+in+Training+🐛;Proud+Kali+Linux+User+🐉;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Nirupam+Pal;Cybersecurity+Learner;Ethical+Hacking+Enthusiast;CTF+Player+%7C+Bug+Hunter;Proud+Kali+Linux+User;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br/>
 
@@ -22,8 +22,8 @@
 
 <br/><br/>
 
-<!-- ══════════════════════ ANIMATED SNAKE ══════════════════════ -->
-<img src="https://raw.githubusercontent.com/palnirupam/palnirupam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=palnirupam&theme=tokyonight&hide_border=true&layout=compact" alt="Activity" />
 
 </div>
 
