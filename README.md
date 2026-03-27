@@ -1,4 +1,5 @@
-  <div align="center">
+
+<div align="center">
 
 <!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nirupam%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=60&descSize=20&descColor=36BCF7"/>
@@ -94,12 +95,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true&include_all_commits=true"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6"/>
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6"/>
 
 </div>
 
@@ -108,7 +109,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palnirupam&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=palnirupam&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1"/>
 </div>
 
 ---
