@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
@@ -94,23 +95,17 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Streak Stats - confirmed working -->
+<!-- Streak Stats -->
 <img width="60%" src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <br/><br/>
 
-<!-- Profile Summary Cards - reliable alternative for stats + top langs -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=palnirupam&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=palnirupam&theme=tokyonight"/>
+<!-- GitHub Stats Card (real data from anuraghazra) -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-</div>
+<!-- Top Languages Card (real data) -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palnirupam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
 </div>
 
 ---
@@ -139,3 +134,4 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn"/>
 
 </div>
+
