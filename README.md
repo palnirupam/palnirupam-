@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
@@ -96,15 +95,15 @@ me.say_hi()
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="60%" src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=palnirupam&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <br/><br/>
 
-<!-- GitHub Stats Card (real data from anuraghazra) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<!-- GitHub Stats Card -->
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=palnirupam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60"/>
 
-<!-- Top Languages Card (real data) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<!-- Top Languages Card -->
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=palnirupam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=60"/>
 
 </div>
 
@@ -134,4 +133,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn"/>
 
 </div>
-
