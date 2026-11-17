@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110">
+<title>Flowing cyan, violet and magenta circuit signature</title>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060a18"/><stop offset="1" stop-color="#101b35"/></linearGradient>
+  <linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#ddd6fe"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#6d28d9"/></radialGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.flow{stroke-dasharray:4 26;animation:flow 4s linear infinite}
+.two{animation-direction:reverse;animation-duration:6s}
+.ring{transform-origin:640px 55px;animation:ring 12s linear infinite}
+.energy{transform-origin:640px 55px;animation:energy 4s ease-in-out infinite}
+.frame{stroke-dasharray:90 1700;animation:frame 12s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-300}}
+@keyframes ring{to{transform:rotate(360deg)}}
+@keyframes energy{0%,100%{transform:scale(.95);opacity:.7}50%{transform:scale(1.15);opacity:1}}
+@keyframes frame{to{stroke-dashoffset:-1790}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1278" height="108" rx="18" fill="url(#bg)" stroke="#1e293b"/>
+<rect class="frame" x="1" y="1" width="1278" height="108" rx="18" fill="none" stroke="url(#neon)" stroke-opacity=".45"/>
+<g fill="none" stroke="url(#neon)">
+<path d="M0 55H180C260 55 270 15 350 15H530C590 15 590 55 640 55S690 95 750 95H930C1010 95 1020 55 1100 55H1280" opacity=".18"/>
+<path d="M0 55H180C260 55 270 95 350 95H530C590 95 590 55 640 55S690 15 750 15H930C1010 15 1020 55 1100 55H1280" opacity=".18"/>
+<path class="flow" d="M0 55H180C260 55 270 15 350 15H530C590 15 590 55 640 55S690 95 750 95H930C1010 95 1020 55 1100 55H1280" stroke-width="2" opacity=".85"/>
+<path class="flow two" d="M0 55H180C260 55 270 95 350 95H530C590 95 590 55 640 55S690 15 750 15H930C1010 15 1020 55 1100 55H1280" stroke-width="2" opacity=".85"/>
+<circle class="ring" cx="640" cy="55" r="26" stroke-dasharray="40 123" opacity=".8"/>
+</g>
+<circle class="energy" cx="640" cy="55" r="8" fill="url(#core)" filter="url(#glow)"/>
+<circle cx="640" cy="55" r="16" fill="none" stroke="#a78bfa" opacity=".3"/>
+</svg>
